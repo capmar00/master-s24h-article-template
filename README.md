@@ -35,7 +35,7 @@ Una volta sistemati i contenuti, potete divertirvi a modificare l’aspetto dell
 Provate a sperimentare: basta modificare un valore, salvare e vedere il risultato nel browser!
 
 ## Strumenti per editare il codice
-Per editare i file HTML e CSS useremo **Visual Studio Code (VSC)**, un editor gratuito e potente, perfetto per questo tipo di lavoro.
+Per editare i file HTML e CSS useremo **Visual Studio Code (VSC)**, un editor gratuito, perfetto per questo tipo di lavoro.
 
 ### Installare VSC
 1. Andate sul sito ufficiale: [https://code.visualstudio.com/](https://code.visualstudio.com/)
@@ -52,7 +52,7 @@ Per visualizzare in tempo reale le modifiche che fate alla vostra pagina, utiliz
 2. Cercate "Live Server" e cliccate su **Installa**.
 3. Una volta installato, aprite il file **index.html**, cliccate con il tasto destro e selezionate **"Open with Live Server"**.
 
-Si aprirà il vostro browser e potrete vedere subito la vostra pagina. Ogni volta che salverete una modifica, il browser si aggiornerà automaticamente!
+Si aprirà il vostro browser e potrete vedere subito la vostra pagina. Ogni volta che salverete una modifica, il browser si aggiornerà automaticamente.
 
 ---
 Ora siete pronti per iniziare! Modificate il testo, caricate le vostre immagini e sperimentate con il CSS per creare una pagina web che rappresenti al meglio il vostro lavoro. Buon divertimento! 🚀
