@@ -55,7 +55,7 @@ Per visualizzare in tempo reale le modifiche che fate alla vostra pagina, utiliz
 Si aprirà il vostro browser e potrete vedere subito la vostra pagina. Ogni volta che salverete una modifica, il browser si aggiornerà automaticamente.
 
 ---
-Ora siete pronti per iniziare! Modificate il testo, caricate le vostre immagini e sperimentate con il CSS per creare una pagina web che rappresenti al meglio il vostro lavoro. Buon divertimento! 🚀
+Ora siete pronti per iniziare: modificate il testo, caricate le vostre immagini e sperimentate con il CSS per creare una pagina web che rappresenti al meglio il vostro lavoro. Buon divertimento! 🚀
 
 
 
