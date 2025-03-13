@@ -14,7 +14,7 @@ All’interno troverete tutti i file necessari per il vostro progetto. Ora vedia
 ## Struttura delle cartelle e dei file
 Aprendo la cartella estratta, noterete che il progetto è composto da diversi file e directory. Ogni elemento ha una funzione precisa:
 
-- **index.html**: è il cuore della vostra pagina web. Qui troverete il testo e la struttura dell’articolo, organizzati attraverso l'uso dei tag HTML. I tag HTML sono utilizzati per definire e formattare il contenuto, come titoli, paragrafi, immagini e collegamenti. Ad esempio, il tag <h1> definisce il titolo principale, mentre <p> viene utilizzato per i paragrafi di testo. Questi tag permettono di strutturare il contenuto in modo chiaro e accessibile per i browser web."
+- **index.html**: è il cuore della vostra pagina web. Qui troverete il testo e la struttura dell’articolo, organizzati attraverso l'uso dei tag HTML. I tag HTML sono utilizzati per definire e formattare il contenuto, come titoli, paragrafi, immagini e collegamenti. Per esempio, il tag &lt;h1&gt; definisce il titolo principale, mentre &lt;p&gt; viene utilizzato per i paragrafi di testo. Questi tag permettono di strutturare il contenuto in modo chiaro e accessibile per i browser web.
 - **css/style.css**: è il file che definisce l’aspetto grafico della pagina, come i colori, i caratteri e la disposizione degli elementi.
 - **img/**: questa cartella è destinata alle immagini che utilizzerete nell’articolo.
 - **video/**: qui potete inserire eventuali video che arricchiranno il vostro contenuto.
