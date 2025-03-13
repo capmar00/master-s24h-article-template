@@ -1,4 +1,4 @@
-# Impaginare un Articolo per il Web
+# Impaginare un articolo per il web
 
 Creare una pagina web può sembrare complicato, ma con gli strumenti giusti e un po’ di pratica diventa un’attività alla portata di tutti. Oggi vi accompagneremo passo dopo passo nella realizzazione di un articolo web, utilizzando un template già pronto. Non è necessario avere esperienza con il codice: vi basterà seguire le istruzioni per personalizzare la vostra pagina e renderla unica!
 
