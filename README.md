@@ -27,7 +27,7 @@ Il template che avete scaricato contiene testi e immagini di esempio. Il vostro 
 - **Aggiungere grafici**: se avete realizzato dei grafici in flourish o datawrapper, inserite il codice embed negli appositi tag che troverete in pagina.
 - **Aggiungere video**: se necessario, posizionate i vostri file multimediali nella cartella **video/** e integrate i collegamenti nel codice.
 
-Non preoccupatevi se all’inizio vi sembra complicato: prendetevi il tempo di esplorare il codice e vedrete che tutto inizierà ad avere senso!
+Non preoccupatevi se all’inizio vi sembra complicato: prendetevi il tempo di esplorare il codice e vedrete che tutto inizierà ad avere senso.
 
 ## Personalizzare lo stile con il CSS
 Una volta sistemati i contenuti, potete divertirvi a modificare l’aspetto della vostra pagina agendo sul file **css/style.css**. Qui potrete cambiare colori, font, dimensioni e disposizione degli elementi per rendere l’articolo più accattivante e in linea con il vostro stile.
