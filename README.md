@@ -3,9 +3,9 @@
 Creare una pagina web può sembrare complicato, ma con gli strumenti giusti e un po’ di pratica diventa un’attività alla portata di tutti. Oggi vi accompagneremo passo dopo passo nella realizzazione di un articolo web, utilizzando un template già pronto. Non è necessario avere esperienza con il codice: vi basterà seguire le istruzioni per personalizzare la vostra pagina e renderla unica.
 
 ## Scaricare il template da questa pagina di GitHub  
-Per facilitarvi il lavoro, useremo un modello preimpostato che potete scaricare direttamente da qui. Ecco come fare:
+Per facilitarvi il lavoro, useremo un modello preimpostato che potete scaricare direttamente da questa pagina dove vi trovate ora. Ecco come fare:
 
-1. Cliccate sul pulsante verde **"Code"** in alto.
+1. Cliccate sul pulsante verde **"Code"** sopra l'elenco dei file contenuti nel progetto, in alto sulla destra.
 2. Selezionate **"Download ZIP"** e scaricate il file sul vostro computer.
 3. Una volta scaricato, estraete il contenuto della cartella ZIP in una posizione a vostra scelta.
 
