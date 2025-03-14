@@ -32,7 +32,7 @@ Non preoccupatevi se all’inizio vi sembra complicato: prendetevi il tempo di e
 ## Personalizzare lo stile con il CSS
 Una volta sistemati i contenuti, potete divertirvi a modificare l’aspetto della vostra pagina agendo sul file **css/style.css**. Qui potrete cambiare colori, font, dimensioni e disposizione degli elementi per rendere l’articolo più accattivante e in linea con il vostro stile.
 
-Provate a sperimentare: basta modificare un valore, salvare e vedere il risultato nel browser!
+Provate a sperimentare: basta modificare un valore, salvare e vedere il risultato nel browser.
 
 ## Strumenti per editare il codice
 Per editare i file HTML e CSS useremo **Visual Studio Code (VSC)**, un editor gratuito, perfetto per questo tipo di lavoro.
